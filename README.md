@@ -1,5 +1,5 @@
 ## Project Title
-- *Students-Info-Portal*
+- *CURD-Operation*
 
 ## Description
 - *This Project includes CURD Operations*
